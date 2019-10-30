@@ -16,12 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 3ef8c3b2fdf534d48a0e205b83b47e09
-  m_SerializeEntries:
-  - m_GUID: 386233641ffcdd34990633f31404d922
-    m_Address: Tile
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Tiles
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f4f01b59437e5124f8aab813a8641437, type: 2}
   m_SchemaSet:

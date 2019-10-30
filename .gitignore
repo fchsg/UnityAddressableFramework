@@ -4,3 +4,6 @@ UnityAddressableFramework/Logs
 UnityAddressableFramework/.idea
 UnityAddressableFramework/Assets/Plugins/Editor/JetBrains
 UnityAddressableFramework/Assets/Plugins/Editor/JetBrains.meta
+UnityAddressableFramework/Assembly-CSharp.csproj
+*.sln
+UnityAddressableFramework/obj
