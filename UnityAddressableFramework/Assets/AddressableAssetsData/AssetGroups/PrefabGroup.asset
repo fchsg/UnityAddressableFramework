@@ -18,11 +18,11 @@ MonoBehaviour:
   m_GUID: 319d37b8a9756c3429fcde88884666df
   m_SerializeEntries:
   - m_GUID: d665f411593df164cba0890fdf8e343a
-    m_Address: Assets/AddressableSimpleData/Prefabs/PrefabCube.prefab
+    m_Address: Assets/AddressableSimpleData/Prefabs/Single/PrefabCube.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: d9aa0ae86e557ab49be857acd64dc0d1
-    m_Address: Assets/AddressableSimpleData/Prefabs/PrefabSprite.prefab
+    m_Address: Assets/AddressableSimpleData/Prefabs/Single/PrefabSprite.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
